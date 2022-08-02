@@ -60,6 +60,7 @@ marquee{
     border-radius: 1rem;
     width: 40rem;
     height: 8rem;
+    padding: 0.5rem;
     background-color: #ede7f6;
     color: black;
     font-size: 1rem;
