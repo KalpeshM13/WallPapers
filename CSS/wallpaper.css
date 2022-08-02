@@ -34,7 +34,7 @@ marquee{
 }
 .strangerthing{
     width: 100%;
-    height: 66rem;
+    height: 50rem;
     background-color: aliceblue;
     margin-bottom: 1.5rem;
     display: inline-block;
@@ -46,7 +46,7 @@ marquee{
 }
 .macOS{
     width: 100%;
-    height: 66rem;
+    height: 50rem;
     margin-top: 1rem;
     margin-bottom: 1.5rem;
     background-color: aliceblue;
