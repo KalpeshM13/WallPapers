@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(235, 233, 224);
+    font-family: 'Merriweather', serif;
+    align-items: center;
+}
+.copyright{
+    background-color: #08395f;
+    color: white;
+    text-align: center;
+    font-size: 1rem;
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+    width: 100%;
+    margin-top: 1rem;
+    display: inline-block;
+}
