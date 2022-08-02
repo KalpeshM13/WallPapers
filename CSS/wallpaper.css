@@ -34,7 +34,7 @@ marquee{
 }
 .strangerthing{
     width: 100%;
-    height: 50rem;
+    height: 60rem;
     background-color: aliceblue;
     margin-bottom: 1.5rem;
     display: inline-block;
@@ -42,11 +42,12 @@ marquee{
 }
 .strangerthing img{
     width: 100%;
+    height: 60rem;
     display: inline-block;
 }
 .macOS{
     width: 100%;
-    height: 50rem;
+    height: 60rem;
     margin-top: 1rem;
     margin-bottom: 1.5rem;
     background-color: aliceblue;
@@ -54,6 +55,7 @@ marquee{
 }
 .macOS img{
     width: 100%;
+    height: 50rem;
     display: inline-block;
 }
 .strangerThingsBtn{
