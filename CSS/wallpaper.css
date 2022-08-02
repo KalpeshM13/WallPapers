@@ -3,7 +3,7 @@ body{
     font-family: 'Merriweather', serif;
     align-items: center;
 }
-h3{
+.heading{
     font-size: 3rem;
     background-color: aqua;
     text-align: center;
@@ -12,6 +12,10 @@ h3{
     border-radius: 1.2rem;
     margin-top: -0.1rem;
     width: 100%;
+}
+.heading a{
+    text-decoration: none;
+    color: black;
 }
 marquee{
     font-family: sans-serif;
