@@ -34,16 +34,20 @@ marquee{
 }
 .strangerthing{
     width: 100%;
-    height: 80rem;
+    height: 117rem;
     background-color: aliceblue;
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
     display: inline-block;
     border: 0.1rem solid black;
+}
+.strangerthing img{
+    width: 100%;
 }
 .macOS{
     width: 100%;
     height: 80rem;
     margin-top: 1rem;
+    margin-bottom: 1rem;
     background-color: aliceblue;
     border: 0.1rem solid black;
 }
