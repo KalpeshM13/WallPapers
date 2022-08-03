@@ -43,8 +43,14 @@ marquee{
     display: inline-block;
 }
 .contact{
-    margin-left: 30%;
+    margin-left: 85%;
     color: #878787;
+    display: inline-block;
+}
+.para{
+    color: white;
+    width: 40%;
+    margin-left: 2%;
     display: inline-block;
 }
 .footer{
