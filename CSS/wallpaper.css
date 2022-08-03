@@ -33,8 +33,25 @@ marquee{
     padding-bottom: 0.5rem;
     padding-top: 0.5rem;
     width: 100%;
-    margin-top: 1rem;
+    margin-top: -0.1rem;
     display: inline-block;
+}
+.about{
+    color: #878787;
+    margin-left: 2%;
+    margin-top: 1%;
+    display: inline-block;
+}
+.contact{
+    margin-left: 30%;
+    color: #878787;
+    display: inline-block;
+}
+.footer{
+    margin-top: 1rem;
+    width: 100%;
+    display: inline-block;
+    background-color: #08395f;
 }
 .strangerthing{
     width: 100%;
