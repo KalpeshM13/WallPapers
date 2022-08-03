@@ -43,15 +43,31 @@ marquee{
     display: inline-block;
 }
 .contact{
-    margin-left: 82%;
+    margin-left: 80%;
     color: #878787;
     display: inline-block;
 }
 .para{
+    margin-top: 1rem;
     color: white;
     width: 40%;
+    font-size: 0.9rem;
     margin-left: 2%;
+    text-align: left;
     display: inline-block;
+}
+.contact_list{
+    /* margin-top: 0.5rem; */
+    margin-left: 42.5%;
+    display: inline-block;
+}
+.contact_list a{
+    color: white;
+    text-decoration: none;
+}
+.contact_list a:hover{
+    color: #878787;
+    text-decoration: underline white;
 }
 .footer{
     margin-top: 1rem;
