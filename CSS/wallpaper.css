@@ -26,7 +26,7 @@ marquee{
     margin-bottom: 1.5rem;
 }
 .copyright{
-    background-color: #08395f;
+    background-color: #033153;
     color: white;
     text-align: center;
     font-size: 1rem;
@@ -43,7 +43,7 @@ marquee{
     display: inline-block;
 }
 .contact{
-    margin-left: 85%;
+    margin-left: 84%;
     color: #878787;
     display: inline-block;
 }
