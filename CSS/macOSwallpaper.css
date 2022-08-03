@@ -85,8 +85,8 @@ hr{
     display: inline-block;
 }
 .contact_list{
-    /* margin-top: 0.5rem; */
-    margin-left: 42.5%;
+    margin-top: -0.5rem;
+    margin-left: 40%;
     display: inline-block;
 }
 .contact_list a{
