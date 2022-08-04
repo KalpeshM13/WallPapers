@@ -36,7 +36,7 @@ span{
 }
 a{
     margin: 0.5rem;
-    color: black;
+    color: white;
     text-decoration: none;
 }
 a:hover{
@@ -52,19 +52,19 @@ a:hover{
 }
 .facebook{
     padding: 0.3rem;
-    background-color: blue;
+    background-color: #3b5999;
     border: solid black;
     border-radius: 0.4rem;
     color: white;
 }
 .twitter{
-    background: aqua;
+    background: #00acee;
     padding: 0.3rem;
     border-radius: 0.4rem;
     border: solid black;
 }
 .heading{
-    font-size: 8rem;
+    font-size: 5rem;
     width: 100%;
     display: inline-block;
 }
@@ -73,6 +73,7 @@ a:hover{
     background-color: blueviolet;
     padding: 0.4rem;
     width: 99%;
+    color: white;
     border: solid black;
     border-radius: 0.5rem;
     display: inline-block;
