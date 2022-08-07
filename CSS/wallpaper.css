@@ -38,35 +38,56 @@ marquee{
 }
 .about{
     color: #878787;
-    margin-left: 2%;
+    text-align: center;
     margin-top: 1%;
+    width: 100%;
     display: inline-block;
 }
 .contact{
-    margin-left: 80%;
+    text-align: center;
     color: #878787;
     display: inline-block;
 }
 .para{
     margin-top: 1rem;
     color: white;
-    width: 40%;
+    width: 100%;
     font-size: 0.9rem;
     margin-left: 2%;
     text-align: left;
     display: inline-block;
 }
 .contact_list{
-    margin-top: -0.5rem;
-    margin-left: 40%;
+    margin-top: 0.5rem;
+    text-align: center;
     display: inline-block;
 }
 .contact_list a{
-    color: white;
+    margin: 7.2rem;
     text-decoration: none;
 }
+.contact_list p{
+    display: inline-block;
+}
+.telegram{
+    color: #0088CC;
+}
+.telegram:hover{
+    color: white;
+}
+.twitter{
+    color: #1DA1F2;
+}
+.twitter:hover{
+    color: white;
+}
+.linkedIN{
+    color: #0077B5;
+}
+.linkedIN:hover{
+    color: white;
+}
 .contact_list a:hover{
-    color: #878787;
     text-decoration: underline white;
 }
 .footer{
