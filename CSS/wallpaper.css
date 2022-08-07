@@ -53,7 +53,7 @@ marquee{
     color: white;
     width: 100%;
     font-size: 0.9rem;
-    margin-left: 2%;
+    margin: 1%;
     text-align: left;
     display: inline-block;
 }
