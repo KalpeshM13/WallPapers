@@ -1,0 +1,136 @@
+body{
+    background-color: rgb(235, 233, 224);
+    font-family: 'Merriweather', serif;
+    align-items: center;
+}
+.heading{
+    font-size: 3rem;
+    background-color: aqua;
+    text-align: center;
+    border: 0.1rem solid black;
+    display: inline-block;
+    border-radius: 1.2rem;
+    margin-top: -0.1rem;
+    width: 100%;
+    padding: 0.2rem;
+}
+.heading a{
+    text-decoration: none;
+    color: black;
+}
+h4{
+    width: 100%;
+    font-size: 1.5rem;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 2rem;
+    margin-top: -1rem;
+}
+hr{
+    border: dotted red 0.6rem;
+    border-bottom: none;
+    width: 85%;
+    margin-bottom: 2rem;
+}
+.strangerThingsBtn-2{
+    margin-bottom: 1.5rem;
+}
+.strangerThingsBtn{
+    border: 0.1rem solid black;
+    border-radius: 1rem;
+    width: 40rem;
+    height: 8rem;
+    padding: 0.5rem;
+    background-color: #ede7f6;
+    color: black;
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+    text-decoration: none;
+}
+.stranger_light{
+    width: 100%;
+    height: 50%;
+    display: inline-block;
+    margin-bottom: 1rem;
+
+}
+.copyright{
+    background-color: #033153;
+    color: white;
+    text-align: center;
+    font-size: 1rem;
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+    width: 100%;
+    margin-top: -0.1rem;
+    display: inline-block;
+}
+.about{
+    color: #878787;
+    text-align: center;
+    margin-top: 1%;
+    width: 100%;
+    display: inline-block;
+}
+.contact{
+    text-align: center;
+    color: #878787;
+    display: inline-block;
+    width: 100%;
+}
+.para{
+    margin-top: 1rem;
+    color: white;
+    width: 100%;
+    font-size: 0.9rem;
+    margin: 1%;
+    text-align: left;
+    display: inline-block;
+}
+.contact_list{
+    width: 100%;
+    margin-top: 0.5rem;
+    text-align: center;
+    display: inline-block;
+}
+.contact_list a{
+    margin: 3.2rem;
+    text-decoration: none;
+}
+.contact_list p{
+    display: inline-block;
+}
+.telegram{
+    color: #0088CC;
+}
+.telegram:hover{
+    color: white;
+}
+.twitter{
+    color: #1DA1F2;
+}
+.twitter:hover{
+    color: white;
+}
+.linkedIN{
+    color: #0077B5;
+}
+.linkedIN:hover{
+    color: white;
+}
+.contact_list a:hover{
+    text-decoration: underline white;
+}
+
+.footer{
+    margin-top: 1rem;
+    width: 100%;
+    display: inline-block;
+    background-color: #08395f;
+}
+.disclaimer{
+    width: 100%;
+    display: inline-block;
+    font-size: 0.6rem;
+    text-align: center;
+}
