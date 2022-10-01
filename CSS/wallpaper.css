@@ -19,7 +19,7 @@ body{
 }
 marquee{
     font-family: sans-serif;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     margin-top: -1.5rem;
     width: 100%;
     display: inline-block;
@@ -159,5 +159,18 @@ h4 a{
     border-radius: 0.4rem;
     padding: 0.2rem;
     color: white;
+    width: 80%;
     text-decoration: none;
+}
+.new{
+    font-family: sans-serif;
+    font-size: 1.3rem;
+    margin-top: -0.7rem;
+    width: 100%;
+    padding: 0.2rem;
+    border-radius: 0.6rem;
+    border: 0.1rem solid black;
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    background-color: aquamarine;
 }
